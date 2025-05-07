@@ -1,0 +1,3 @@
+[all]
+BOOT_ORDER=0x21
+TFTP_IP=10.42.0.1
